@@ -3,12 +3,12 @@
     "profilePhoto": "/content/media/profilePhoto.jpg",
     "username": "peters",
     "displayName": "Peter Stanly",
-    "profession": "Web Designer/ Digital Marketer",
+    "profession": "Web Designer / Digital Marketer",
     "location": "Texas, USA",
     "pronouns": "He/Him",
     "byline": "Web Designer/ Digital Marketer in Texas, USA, He/Him",
     "website": "Peterstanly.cv",
-    "websiteURL": "http://Peterstanly.cv",
+    "websiteURL": "http://PeterStanly.cv",
     "about": "I’m a digital marketing strategist with expertise in visual communication and websites. I create intuitive interfaces, craft SEO-driven strategies, and redefine brand identities to deliver engaging, user-focused solutions.\n\nFor your organisation, I bring a unique blend of creativity, technical skill, and strategic thinking to enhance usability, drive engagement, and achieve your goals. Let’s work together to build digital experiences that connect with your audience and deliver measurable results.",
     "status": {
       "text": null,
@@ -130,7 +130,7 @@
       "type": "workExperience",
       "title": "Campus Technology Associate",
       "company": "Southwestern Baptist Theological Seminary",
-      "location": "Fortworth, Texas, USA"
+      "location": "Fort Worth, Texas, USA"
     },
     {
       "id": "i5Mt8VZv6uB2hpWJEHFI",
@@ -154,7 +154,7 @@
       "description": "I oversaw daily operations of the online store, including product listings, inventory management, and order fulfillment. I developed and executed digital marketing strategies to drive traffic, increase conversions, and optimize customer experience.",
       "attachments": [],
       "type": "workExperience",
-      "title": "E-commerce Manager",
+      "title": "E-Commerce Manager",
       "company": "Good Deals",
       "location": "Plano, Texas, USA"
     },
@@ -273,13 +273,13 @@
     {
       "id": "fB3VSbycTCg5JOjwZHYx",
       "platform": "Email",
-      "handle": "Hello@peterstanly.cv",
+      "handle": "hello@peterstanly.cv",
       "url": "mailto:Hello@peterstanly.cv"
     },
     {
       "id": "VbS1GC9M2xPthY7oD5Kd",
       "platform": "Email",
-      "handle": "Peterstanly01@outlook.com",
+      "handle": "peterstanly01@outlook.com",
       "url": "mailto:Peterstanly01@outlook.com"
     }
   ],
@@ -414,7 +414,7 @@
         {
           "id": "CNgsuvs4HFjRrjn0BKbm",
           "year": "2019 — 2021",
-          "heading": "E-commerce Manager at Good Deals",
+          "heading": "E-Commerce Manager at Good Deals",
           "url": null,
           "collaborators": [],
           "description": "I oversaw daily operations of the online store, including product listings, inventory management, and order fulfillment. I developed and executed digital marketing strategies to drive traffic, increase conversions, and optimize customer experience.",
