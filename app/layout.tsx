@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google'
 import { promises as fs } from 'fs';
 import "./globals.css";
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import { Analytics } from '@vercel/analytics/next';
 const inter = Inter({
   subsets: ['latin'],
   variable: '--font-inter',
@@ -27,6 +28,7 @@ export default function RootLayout({
       <body className={`${inter.variable} font-sans`}>
         {children}
         <SpeedInsights />
+        <Analytics />
       </body>
     </html>
   );
