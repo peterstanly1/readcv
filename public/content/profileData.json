@@ -1,0 +1,566 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "peters",
+    "displayName": "Peter Stanly",
+    "profession": "Web Designer/ Digital Marketer",
+    "location": "Texas, USA",
+    "pronouns": "He/Him",
+    "byline": "Web Designer/ Digital Marketer in Texas, USA, He/Him",
+    "website": "Peterstanly.cv",
+    "websiteURL": "http://Peterstanly.cv",
+    "about": "I’m a digital marketing strategist with expertise in visual communication and websites. I create intuitive interfaces, craft SEO-driven strategies, and redefine brand identities to deliver engaging, user-focused solutions.\n\nFor your organisation, I bring a unique blend of creativity, technical skill, and strategic thinking to enhance usability, drive engagement, and achieve your goals. Let’s work together to build digital experiences that connect with your audience and deliver measurable results.",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": null
+  },
+  "projects": [
+    {
+      "id": "bo6yCTqCgBjdvNXp61Fs",
+      "year": "2020",
+      "heading": "Website, Content and Strategy for E-Commerce success at Good Deals",
+      "url": null,
+      "collaborators": [],
+      "description": "* Developed and designed the e-commerce website with a focus on user experience.\n\n* Created and managed content strategy, including product descriptions and visuals.\n\n* Implemented SEO strategies to improve website visibility.\n\n* Planned and executed marketing strategies to drive traffic and conversions.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 4000,
+          "height": 2668,
+          "url": "/content/media/Website-Content-and-Strategy-for-E-Commerce-success-at-Good-Deals-1.png"
+        },
+        {
+          "type": "image",
+          "width": 4500,
+          "height": 3000,
+          "url": "/content/media/Website-Content-and-Strategy-for-E-Commerce-success-at-Good-Deals-2.png"
+        }
+      ],
+      "type": "project",
+      "title": "Website, Content and Strategy for E-Commerce success",
+      "company": "Good Deals"
+    },
+    {
+      "id": "tLSdHtZjCcrDFquq4udw",
+      "year": "2019",
+      "heading": "Brand Identity & Digital Presence Development at Faymus Photography",
+      "url": null,
+      "collaborators": [],
+      "description": "* Redesigned the brand identity and digital presence for a photography studio to reflect a modern, creative vision.\n\n* Created user-friendly interfaces for their portfolio website, emphasizing clean layouts and high-quality visuals to showcase their work.\n\n* Implemented a booking flow that streamlined client inquiries and reservations.\n\n* Worked closely with the client to ensure the design aligned with their artistic and business goals.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 6000,
+          "height": 6000,
+          "url": "/content/media/Brand-Identity-and-Digital-Presence-Development-at-Faymus-Photography-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 4000,
+          "height": 3000,
+          "url": "/content/media/Brand-Identity-and-Digital-Presence-Development-at-Faymus-Photography-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3000,
+          "height": 2000,
+          "url": "/content/media/Brand-Identity-and-Digital-Presence-Development-at-Faymus-Photography-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 4000,
+          "height": 2668,
+          "url": "/content/media/Brand-Identity-and-Digital-Presence-Development-at-Faymus-Photography-4.jpg"
+        }
+      ],
+      "type": "project",
+      "title": "Brand Identity & Digital Presence Development",
+      "company": "Faymus Photography"
+    },
+    {
+      "id": "c6xmU1BBRrWgzVQT9Kry",
+      "year": "2018",
+      "heading": "Concept to Launch: Digital Marketing Agency Development at Screenifi",
+      "url": null,
+      "collaborators": [],
+      "description": "* Conceptualized and built the brand identity and online presence for a digital marketing agency from the ground up.\n\n* Designed a responsive website with a focus on clear navigation and intuitive user interfaces.\n\n* Developed marketing materials and visual assets to establish a cohesive and recognizable brand.\n\n* Integrated user feedback into iterative design improvements, ensuring the agency's digital tools met the needs of its clients.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 4000,
+          "height": 3000,
+          "url": "/content/media/Concept-to-Launch-Digital-Marketing-Agency-Development-at-Screenifi-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3000,
+          "height": 2000,
+          "url": "/content/media/Concept-to-Launch-Digital-Marketing-Agency-Development-at-Screenifi-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3000,
+          "height": 2000,
+          "url": "/content/media/Concept-to-Launch-Digital-Marketing-Agency-Development-at-Screenifi-3.jpg"
+        }
+      ],
+      "type": "project",
+      "title": "Concept to Launch: Digital Marketing Agency Development",
+      "company": "Screenifi"
+    }
+  ],
+  "sideProjects": [],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "7NyjUyYmv2KsuIzDTKYu",
+      "year": "2025 — Now",
+      "heading": "Campus Technology Associate at Southwestern Baptist Theological Seminary",
+      "url": null,
+      "collaborators": [],
+      "description": "In this user-facing role, I provide support related to Mac & Windows - hardware, software, network connectivity for faculty, students  and guests.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Campus Technology Associate",
+      "company": "Southwestern Baptist Theological Seminary",
+      "location": "Fortworth, Texas, USA"
+    },
+    {
+      "id": "i5Mt8VZv6uB2hpWJEHFI",
+      "year": "2017 — Now",
+      "heading": "Online Presence Consultant at Screenifi",
+      "url": null,
+      "collaborators": [],
+      "description": "I helped organisations enhance their digital footprint by designing visually engaging websites and crafting strategies that aligned with their brand goals. I assisted in improving their online visibility through digital marketing, web design, and effective visual communication.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Online Presence Consultant",
+      "company": "Screenifi",
+      "location": "Dallas, Texas, USA"
+    },
+    {
+      "id": "CNgsuvs4HFjRrjn0BKbm",
+      "year": "2019 — 2021",
+      "heading": "E-commerce Manager at Good Deals",
+      "url": null,
+      "collaborators": [],
+      "description": "I oversaw daily operations of the online store, including product listings, inventory management, and order fulfillment. I developed and executed digital marketing strategies to drive traffic, increase conversions, and optimize customer experience.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "E-commerce Manager",
+      "company": "Good Deals",
+      "location": "Plano, Texas, USA"
+    },
+    {
+      "id": "nvfPziwgun9qq9memvCf",
+      "year": "2014 — 2017",
+      "heading": "Broadcast Media Assistant at CFNI",
+      "url": null,
+      "collaborators": [],
+      "description": "I assisted the state-of-the-art broadcast media department in shooting live events and directing live productions. I also monitored broadcast servers and supported equipment setups to ensure seamless live transmissions.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Broadcast Media Assistant",
+      "company": "CFNI",
+      "location": "Dallas, Texas, USA"
+    },
+    {
+      "id": "pJ2ozqOoC6wKu6uyTFxT",
+      "year": "2013 — 2014",
+      "heading": "Digital Media Coordinator at Capstone Global",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Digital Media Coordinator",
+      "company": "Capstone Global",
+      "location": "Karnataka, India"
+    },
+    {
+      "id": "J6SRjBDagDCzgwnvTWmR",
+      "year": "2012 — 2013",
+      "heading": "President at College Media Club",
+      "url": null,
+      "collaborators": [],
+      "description": "As the elected Media Club President in College, I led the club’s initiatives by overseeing media projects, organizing events. I served as a bridge between the student body and administration, advocating for initiatives like inviting Tamil movie industry veterans for workshops to enhance learning and growth.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "President",
+      "company": "College Media Club",
+      "location": "Tamil Nadu, India"
+    }
+  ],
+  "volunteering": [
+    {
+      "id": "coBndrAwUbhwnqLbBAK5",
+      "year": "2018 — 2019",
+      "heading": "Digital Presence consultant at Hope City Dallas",
+      "url": null,
+      "collaborators": [],
+      "description": "* Crafted content strategies that boosted online engagement and enhanced the church’s digital presence.\n\n* Repurposed sermon recordings, Sunday services, and church events into shareable social media content.\n\n* Improved SEO to increase website visibility and rankings.\n\n* Strengthened community engagement and expanded reach by optimizing the church’s social media presence.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3000,
+          "height": 2000,
+          "url": "/content/media/Digital-Presence-consultant-at-Hope-City-Dallas.jpg"
+        }
+      ],
+      "type": "volunteering",
+      "title": "Digital Presence consultant",
+      "organization": "Hope City Dallas",
+      "location": "Texas, USA"
+    }
+  ],
+  "education": [
+    {
+      "id": "YhCb8jTQvQDFLchQOwSw",
+      "year": "2014 — 2017",
+      "heading": "Bachelor's Counseling and Leadership at Christ for the Nations Institute",
+      "url": "https://cfni.org",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor's Counseling and Leadership",
+      "school": "Christ for the Nations Institute",
+      "location": "Dallas, Texas, USA"
+    },
+    {
+      "id": "MX2IWVx9YUHxE4IbZfME",
+      "year": "2010 — 2013",
+      "heading": "B.Sc. Visual Communication at Bharathiyar University",
+      "url": "https://b-u.ac.in/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "B.Sc. Visual Communication",
+      "school": "Bharathiyar University",
+      "location": "Tamil Nadu, India"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "L24bM2hMqvV6joN2ZiLB",
+      "year": "2021",
+      "heading": "Google Analytics Certification from Google",
+      "url": "https://skillshop.docebosaas.com/learn/courses/14810/google-analytics-certification",
+      "collaborators": [],
+      "description": "",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 400,
+          "height": 400,
+          "url": "/content/media/Google-Analytics-Certification-from-Google.png"
+        }
+      ],
+      "type": "certification",
+      "name": "Google Analytics Certification",
+      "organization": "Google"
+    }
+  ],
+  "contact": [
+    {
+      "id": "fB3VSbycTCg5JOjwZHYx",
+      "platform": "Email",
+      "handle": "Hello@peterstanly.cv",
+      "url": "mailto:Hello@peterstanly.cv"
+    },
+    {
+      "id": "VbS1GC9M2xPthY7oD5Kd",
+      "platform": "Email",
+      "handle": "Peterstanly01@outlook.com",
+      "url": "mailto:Peterstanly01@outlook.com"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "bo6yCTqCgBjdvNXp61Fs",
+          "year": "2020",
+          "heading": "Website, Content and Strategy for E-Commerce success at Good Deals",
+          "url": null,
+          "collaborators": [],
+          "description": "* Developed and designed the e-commerce website with a focus on user experience.\n\n* Created and managed content strategy, including product descriptions and visuals.\n\n* Implemented SEO strategies to improve website visibility.\n\n* Planned and executed marketing strategies to drive traffic and conversions.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 4000,
+              "height": 2668,
+              "url": "/content/media/Website-Content-and-Strategy-for-E-Commerce-success-at-Good-Deals-1.png"
+            },
+            {
+              "type": "image",
+              "width": 4500,
+              "height": 3000,
+              "url": "/content/media/Website-Content-and-Strategy-for-E-Commerce-success-at-Good-Deals-2.png"
+            }
+          ],
+          "type": "project",
+          "title": "Website, Content and Strategy for E-Commerce success",
+          "company": "Good Deals"
+        },
+        {
+          "id": "tLSdHtZjCcrDFquq4udw",
+          "year": "2019",
+          "heading": "Brand Identity & Digital Presence Development at Faymus Photography",
+          "url": null,
+          "collaborators": [],
+          "description": "* Redesigned the brand identity and digital presence for a photography studio to reflect a modern, creative vision.\n\n* Created user-friendly interfaces for their portfolio website, emphasizing clean layouts and high-quality visuals to showcase their work.\n\n* Implemented a booking flow that streamlined client inquiries and reservations.\n\n* Worked closely with the client to ensure the design aligned with their artistic and business goals.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 6000,
+              "height": 6000,
+              "url": "/content/media/Brand-Identity-and-Digital-Presence-Development-at-Faymus-Photography-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4000,
+              "height": 3000,
+              "url": "/content/media/Brand-Identity-and-Digital-Presence-Development-at-Faymus-Photography-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3000,
+              "height": 2000,
+              "url": "/content/media/Brand-Identity-and-Digital-Presence-Development-at-Faymus-Photography-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4000,
+              "height": 2668,
+              "url": "/content/media/Brand-Identity-and-Digital-Presence-Development-at-Faymus-Photography-4.jpg"
+            }
+          ],
+          "type": "project",
+          "title": "Brand Identity & Digital Presence Development",
+          "company": "Faymus Photography"
+        },
+        {
+          "id": "c6xmU1BBRrWgzVQT9Kry",
+          "year": "2018",
+          "heading": "Concept to Launch: Digital Marketing Agency Development at Screenifi",
+          "url": null,
+          "collaborators": [],
+          "description": "* Conceptualized and built the brand identity and online presence for a digital marketing agency from the ground up.\n\n* Designed a responsive website with a focus on clear navigation and intuitive user interfaces.\n\n* Developed marketing materials and visual assets to establish a cohesive and recognizable brand.\n\n* Integrated user feedback into iterative design improvements, ensuring the agency's digital tools met the needs of its clients.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 4000,
+              "height": 3000,
+              "url": "/content/media/Concept-to-Launch-Digital-Marketing-Agency-Development-at-Screenifi-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3000,
+              "height": 2000,
+              "url": "/content/media/Concept-to-Launch-Digital-Marketing-Agency-Development-at-Screenifi-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3000,
+              "height": 2000,
+              "url": "/content/media/Concept-to-Launch-Digital-Marketing-Agency-Development-at-Screenifi-3.jpg"
+            }
+          ],
+          "type": "project",
+          "title": "Concept to Launch: Digital Marketing Agency Development",
+          "company": "Screenifi"
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "7NyjUyYmv2KsuIzDTKYu",
+          "year": "2025 — Now",
+          "heading": "Campus Technology Associate at Southwestern Baptist Theological Seminary",
+          "url": null,
+          "collaborators": [],
+          "description": "In this user-facing role, I provide support related to Mac & Windows - hardware, software, network connectivity for faculty, students  and guests.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Campus Technology Associate",
+          "company": "Southwestern Baptist Theological Seminary",
+          "location": "Fortworth, Texas, USA"
+        },
+        {
+          "id": "i5Mt8VZv6uB2hpWJEHFI",
+          "year": "2017 — Now",
+          "heading": "Online Presence Consultant at Screenifi",
+          "url": null,
+          "collaborators": [],
+          "description": "I helped organisations enhance their digital footprint by designing visually engaging websites and crafting strategies that aligned with their brand goals. I assisted in improving their online visibility through digital marketing, web design, and effective visual communication.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Online Presence Consultant",
+          "company": "Screenifi",
+          "location": "Dallas, Texas, USA"
+        },
+        {
+          "id": "CNgsuvs4HFjRrjn0BKbm",
+          "year": "2019 — 2021",
+          "heading": "E-commerce Manager at Good Deals",
+          "url": null,
+          "collaborators": [],
+          "description": "I oversaw daily operations of the online store, including product listings, inventory management, and order fulfillment. I developed and executed digital marketing strategies to drive traffic, increase conversions, and optimize customer experience.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "E-commerce Manager",
+          "company": "Good Deals",
+          "location": "Plano, Texas, USA"
+        },
+        {
+          "id": "nvfPziwgun9qq9memvCf",
+          "year": "2014 — 2017",
+          "heading": "Broadcast Media Assistant at CFNI",
+          "url": null,
+          "collaborators": [],
+          "description": "I assisted the state-of-the-art broadcast media department in shooting live events and directing live productions. I also monitored broadcast servers and supported equipment setups to ensure seamless live transmissions.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Broadcast Media Assistant",
+          "company": "CFNI",
+          "location": "Dallas, Texas, USA"
+        },
+        {
+          "id": "pJ2ozqOoC6wKu6uyTFxT",
+          "year": "2013 — 2014",
+          "heading": "Digital Media Coordinator at Capstone Global",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Digital Media Coordinator",
+          "company": "Capstone Global",
+          "location": "Karnataka, India"
+        },
+        {
+          "id": "J6SRjBDagDCzgwnvTWmR",
+          "year": "2012 — 2013",
+          "heading": "President at College Media Club",
+          "url": null,
+          "collaborators": [],
+          "description": "As the elected Media Club President in College, I led the club’s initiatives by overseeing media projects, organizing events. I served as a bridge between the student body and administration, advocating for initiatives like inviting Tamil movie industry veterans for workshops to enhance learning and growth.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "President",
+          "company": "College Media Club",
+          "location": "Tamil Nadu, India"
+        }
+      ]
+    },
+    {
+      "name": "Volunteering",
+      "items": [
+        {
+          "id": "coBndrAwUbhwnqLbBAK5",
+          "year": "2018 — 2019",
+          "heading": "Digital Presence consultant at Hope City Dallas",
+          "url": null,
+          "collaborators": [],
+          "description": "* Crafted content strategies that boosted online engagement and enhanced the church’s digital presence.\n\n* Repurposed sermon recordings, Sunday services, and church events into shareable social media content.\n\n* Improved SEO to increase website visibility and rankings.\n\n* Strengthened community engagement and expanded reach by optimizing the church’s social media presence.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3000,
+              "height": 2000,
+              "url": "/content/media/Digital-Presence-consultant-at-Hope-City-Dallas.jpg"
+            }
+          ],
+          "type": "volunteering",
+          "title": "Digital Presence consultant",
+          "organization": "Hope City Dallas",
+          "location": "Texas, USA"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "YhCb8jTQvQDFLchQOwSw",
+          "year": "2014 — 2017",
+          "heading": "Bachelor's Counseling and Leadership at Christ for the Nations Institute",
+          "url": "https://cfni.org",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor's Counseling and Leadership",
+          "school": "Christ for the Nations Institute",
+          "location": "Dallas, Texas, USA"
+        },
+        {
+          "id": "MX2IWVx9YUHxE4IbZfME",
+          "year": "2010 — 2013",
+          "heading": "B.Sc. Visual Communication at Bharathiyar University",
+          "url": "https://b-u.ac.in/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "B.Sc. Visual Communication",
+          "school": "Bharathiyar University",
+          "location": "Tamil Nadu, India"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "L24bM2hMqvV6joN2ZiLB",
+          "year": "2021",
+          "heading": "Google Analytics Certification from Google",
+          "url": "https://skillshop.docebosaas.com/learn/courses/14810/google-analytics-certification",
+          "collaborators": [],
+          "description": "",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 400,
+              "height": 400,
+              "url": "/content/media/Google-Analytics-Certification-from-Google.png"
+            }
+          ],
+          "type": "certification",
+          "name": "Google Analytics Certification",
+          "organization": "Google"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "fB3VSbycTCg5JOjwZHYx",
+          "platform": "Email",
+          "handle": "Hello@peterstanly.cv",
+          "url": "mailto:Hello@peterstanly.cv"
+        },
+        {
+          "id": "VbS1GC9M2xPthY7oD5Kd",
+          "platform": "Email",
+          "handle": "Peterstanly01@outlook.com",
+          "url": "mailto:Peterstanly01@outlook.com"
+        }
+      ]
+    }
+  ]
+}
